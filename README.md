@@ -114,4 +114,52 @@ Unlike many modern note-taking apps that overwhelm users with excessive function
 
 ---
 
+## 📸 Screenshots
 
+### 🏠 Home Screen
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_13.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Light Mode</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_21.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Dark Mode</sub>
+    </td>
+  </tr>
+</table>
+
+### 📝 Note Editor
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_27.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Light Mode</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_26.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Dark Mode</sub>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Settings & Colors
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_19.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Settings</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_16.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Colors Selector</sub>
+    </td>
+  </tr>
+</table>
+
+> Note - More screenshots are available in the 'assets/screenshots' folder.
+---
