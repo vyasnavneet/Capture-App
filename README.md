@@ -1,6 +1,6 @@
 # 📓 Capture!
 
-**Capture** is a super-fast, elegant note-taking app inspired by Google Keep. Its core philosophy is simplicity and speed — removing all unnecessary features that slow down the note-taking process. 
+**[Capture](https://vysnvnt.com/capture/)** is a super-fast, elegant note-taking app inspired by Google Keep. Its core philosophy is simplicity and speed — removing all unnecessary features that slow down the note-taking process. 
 
 Unlike many modern note-taking apps that overwhelm users with excessive functionality, **Capture** is designed to be lightweight, fluid, and frustration-free.
 
